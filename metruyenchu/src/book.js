@@ -1,13 +1,11 @@
 load("config.js");
-
 function execute(url, page) {
     if (!page) page = '1';
-    var tocUrl = "https://backend.metruyencv.com" + url + "&limit=20&page=" + page;
+    let tocUrl = BASE_URL2.replace("https://", "https://backend.") + url + "&limit=20&page=" + page;
 
-    var response = fetch(tocUrl, {
+    let response = fetch(tocUrl, {
         headers: {
-            "X-App": "MeTruyenChu",
-            "User-Agent": "Mozilla/5.0 (Linux; Android 10; Mobile) Chrome/119.0.0.0 Safari/537.36"
+            "X-App": "MeTruyenChu"
         },
     });
 
