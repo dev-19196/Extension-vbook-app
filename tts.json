@@ -33,6 +33,26 @@
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bing-tts/icon.png",
       "description": "Nghe truyện bằng Bing TTS",
       "type": "tts"
+    },
+    {
+      "name": "Zalo AI TTS",
+      "author": "vBook",
+      "version": 1,
+      "source": "https://ai.zalo.cloud/docs/api/getting-started",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/zalo-tts/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/zalo-tts/icon.png",
+      "description": "Nghe truyện bằng Zalo AI TTS",
+      "type": "tts"
+    },
+    {
+      "name": "Tiktok TTS",
+      "author": "vBook",
+      "version": 1,
+      "source": "https://www.tiktok.com",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/tiktok-tts/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/tiktok-tts/icon.png",
+      "description": "Nghe truyện bằng Tiktok TTS",
+      "type": "tts"
     }
   ]
 }
