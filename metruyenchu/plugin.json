@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "MTC_v1",
-    "author": "vBook",
+    "author": "dev lỏ",
     "version": 39,
     "source": "https://metruyencv.biz",
     "regexp": "(www.)?(metruyenchu|mtccv|metruyencv).[a-z]+/truyen/[a-zA-Z0-9-]+/?$",

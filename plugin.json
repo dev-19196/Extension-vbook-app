@@ -5,8 +5,8 @@
   },
   "data": [
     {
-      "name": "MTC",
-      "author": "vBook",
+      "name": "MTC_v1",
+      "author": "dev lỏ",
       "path": "https://raw.githubusercontent.com/dev-19196/Extension-vbook-app/master/metruyenchu/plugin.zip",
       "version": 39,
       "source": "https://metruyencv.biz",
